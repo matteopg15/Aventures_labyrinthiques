@@ -1,5 +1,5 @@
 # Aventures_labyrinthiques
-Jeu d'évasion de labyrinthe basé sur la génération d'un labyrinthe et d'objets aléatoirement
+Jeu d'évasion de labyrinthe basé sur la génération d'un labyrinthe et d'objets aléatoirement (2022-2023)
 
 ## Règles du jeu
 Vous apparaissez dans la colonne la plus à gauche d'un labyrinthe.
